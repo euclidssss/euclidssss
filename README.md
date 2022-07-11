@@ -1,1 +1,1 @@
-I will rape you
+NIGGERS FUCK FAGGOTS
