@@ -1,4 +1,4 @@
-```yaml
+```sh-session
 ❯ pfetch
        /\         euclid@arch
       /  \        os     Arch Linux
