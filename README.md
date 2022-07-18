@@ -1,4 +1,4 @@
-```
+```yaml
 ❯ pfetch
        /\         euclid@arch
       /  \        os     Arch Linux
