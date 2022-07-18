@@ -8,3 +8,10 @@
   /   |  |  -\    pkgs   <1000
  /_-''    ''-_\   memory 16000M
  ```
+```yaml
+❯ contactme
+Discord: euclid#8088
+Matrix: @euclid:midov.pl
+Email: mp06@tutamail.com
+Email 2: euclid@euclidmail.xyz
+```
