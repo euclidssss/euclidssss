@@ -15,3 +15,9 @@ Matrix: @euclid:midov.pl
 Email: mp06@tutamail.com
 Email 2: euclid@euclidmail.xyz
 ```
+```yaml
+❯ languages
+Python - Intermediate
+C - Learning
+C++ - Learning
+```
